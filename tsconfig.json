@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outFile": "./dist-specific/out.js",
+    "target": "es5",
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "files": ["./src/hello1.ts", "./src/hello2.ts", "./src/hello3.ts"]
+}
