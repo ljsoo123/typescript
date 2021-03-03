@@ -1,12 +1,6 @@
 {
   "compilerOptions": {
-    //"outFile": "./dist-specific/out.js",
-    "outDir": "./dist-outdir",
-    "target": "es5",
-    "removeComments": true,
-    "sourceMap": true
-  },
-  "include": ["src/**/*", "src2/**/*"],
-  "exclude": ["node_modules", ".vscode"]
-  //"files": ["./src/hello1.ts", "./src/hello2.ts", "./src/hello3.ts"]
+    "outDir": "./dist",
+    "target": "es6"
+  }
 }
